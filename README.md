@@ -31,3 +31,9 @@ This project demonstrates how to build a **knowledge graph-based movie recommend
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
+🚀 Run the Jupyter Notebook
+```bash
+
+jupyter notebook Movie_Recommender.ipynb
+
